@@ -5,8 +5,8 @@ function widget() {
     <div>
     <nav class="navbar bg-body-tertiary">
     <div class="container-fluid">
-    <form class="d-flex" role="search">
-      <input class="form-control me-2" type="Buscar" placeholder="Buscar" aria-label="Buscar"/>
+    <form class="d-flex ms-auto" role="search">
+      <input class="form-control me-2 aling-items-end" type="Buscar" placeholder="Buscar" aria-label="Buscar"/>
        <button class="btn btn-outline-primary " type="submit"><i class="bi bi-search"></i></button>
       </form>
      </div>
